@@ -17,7 +17,7 @@ Welcome to Deep Dive by C – BookStore, a C-based console application that simu
 
 ## 📚 What I Learned :
 
-Through building this project, I strengthened my understanding of:
+##### Through building this project, I strengthened my understanding of:
 
   -  ✅ C language fundamentals (variables, functions, conditionals, loops)
 
