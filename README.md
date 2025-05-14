@@ -36,23 +36,6 @@ Welcome to Deep Dive by C – BookStore, a C-based console application that simu
   - 🧪 Building and testing C applications using manual test cases
 
 
-## 🗂️ Folder Structure :
-```
-Deep-Dive-by-C-BookStore/
-├── src/
-│   ├── main.c           # Main application logic
-│   └── utils.c          # Helper functions (e.g., input cleanup)
-├── include/
-│   └── utils.h          # Function declarations
-├── bin/
-│   └── BookStore.exe    # Compiled output
-├── docs/
-│   └── README.md        # Project documentation
-├── tests/
-│   └── test_cases.c     # Test input cases
-├── Makefile             # Compile automation
-└── LICENSE              # MIT license
-```
 ## 🛠️ Getting Started :
 ✅ Prerequisites
 
